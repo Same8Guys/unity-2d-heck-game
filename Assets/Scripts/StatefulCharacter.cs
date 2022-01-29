@@ -1,8 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class StatefulCharacter : MonoBehaviour
 {
 
     [SerializeField] float speed = 500.0f;
